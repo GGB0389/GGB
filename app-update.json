@@ -1,14 +1,12 @@
 {
-  "versionCode": 6867,
-  "versionName": "6.6.7",
+  "versionCode": 6808,
+  "versionName": "6.8.8",
   "websiteUrl": "https://ace游戏管家.top/",
-  "downloadUrl": "https://aaa-asm.pages.dev/baozao6.6.7.APK",
+  "downloadUrl": "https://aaa-asm.pages.dev/baozao6.8.8.APK",
   "sizeBytes": 15304284,
-  "fileName": "baozao6.6.7.apk",
+  "fileName": "baozao6.8.8.apk",
   "forceUpdate": true,
   "updateLog": [
-    "6.6.7 修复 App 内更新失败（404/版本过低提示更明确）",
-    "App 更新支持备用下载线路",
-    "下载前校验安装包版本，避免装到旧包"
+  
   ]
 }
