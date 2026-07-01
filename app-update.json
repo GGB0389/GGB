@@ -1,14 +1,14 @@
 {
-  "versionCode": 6000,
-  "versionName": "6.0.0",
+  "versionCode": 6600,
+  "versionName": "6.6.0",
   "websiteUrl": "https://ace游戏管家.top/",
-  "downloadUrl": "https://aaa-asm.pages.dev/baozao6.0.0.APK",
+  "downloadUrl": "https://aaa-asm.pages.dev/baozao6.6.0.APK",
   "sizeBytes": 15304284,
-  "fileName": "baozao6.0.0.apk",
+  "fileName": "baozao6.6.0.apk",
   "forceUpdate": true,
   "updateLog": [
-    "6.0 版本更名为 baozao",
-    "App 内直链自动下载安装",
-    "强制更新时自动开始下载并调起系统安装"
+    "6.6 修复微信号读取，优先读取用户设置的微信号",
+    "首次验证仅上传 QQ/微信，并记录第几个授权",
+    "App 内直链自动下载安装"
   ]
 }
