@@ -1,0 +1,1 @@
+window.__APP_RELEASE_DATA={"versionCode":6000,"versionName":"6.0.0","websiteUrl":"https://ace游戏管家.top/","downloadUrl":"https://aaa-asm.pages.dev/baozao6.0.0.APK","sizeBytes":15304284,"fileName":"baozao6.0.0.apk","forceUpdate":true,"updateLog":["6.0 版本更名为 baozao","App 内直链自动下载安装","强制更新时自动开始下载并调起系统安装"]};
