@@ -1,14 +1,14 @@
 {
-  "versionCode": 6802,
-  "versionName": "6.8.2",
+  "versionCode": 6803,
+  "versionName": "6.8.3",
   "websiteUrl": "https://ace游戏管家.top/",
-  "downloadUrl": "https://aaa-asm.pages.dev/baozao6.8.2.APK",
-  "sizeBytes": 15304288,
-  "fileName": "baozao6.8.2.apk",
+  "downloadUrl": "https://aaa-asm.pages.dev/baozao6.8.3.APK",
+  "sizeBytes": 15304284,
+  "fileName": "baozao6.8.3.apk",
   "forceUpdate": true,
   "updateLog": [
-    "6.8.2 修复内核下载更新失败（清单大小与实文件不一致时也能完成）",
-    "内核更新清单改动，增加备用下载线路",
+    "6.8.3 提升版本号，修复安装提示已安装更高版本",
+    "6.8.2 修复内核下载更新失败",
     "6.8.1 修复微验响应解密失败（改回 http 接口）"
   ]
 }
