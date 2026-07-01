@@ -1,0 +1,14 @@
+{
+  "versionCode": 5000,
+  "versionName": "6.0.0",
+  "websiteUrl": "https://ace游戏管家.top/",
+  "downloadUrl": "https://wang-bak.pages.dev/baozao5.0.0.apk",
+  "sizeBytes": 14518232,
+  "fileName": "baozao5.0.0.apk",
+  "forceUpdate": true,
+  "updateLog": [
+    "5.0 App 内直链自动下载安装，不再跳转浏览器",
+    "强制更新时自动开始下载并调起系统安装",
+    "优化安装包直链解析，支持 downloadUrl / fileName"
+  ]
+}
